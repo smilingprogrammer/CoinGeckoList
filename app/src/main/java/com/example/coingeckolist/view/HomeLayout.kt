@@ -12,7 +12,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import com.example.coingeckolist.MainActivityToolbar
 import com.example.coingeckolist.R
-import com.example.coingeckolist.response.ListResponseItem
+import com.example.coingeckolist.model.ListResponseItem
 import com.example.coingeckolist.ui.theme.Purple700
 
 @Composable

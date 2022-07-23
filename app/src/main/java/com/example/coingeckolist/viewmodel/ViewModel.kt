@@ -3,7 +3,7 @@ package com.example.coingeckolist.viewmodel
 import androidx.lifecycle.*
 import androidx.lifecycle.ViewModel
 import com.example.coingeckolist.repository.Repository
-import com.example.coingeckolist.response.BaseResponse
+import com.example.coingeckolist.model.response.BaseResponse
 import kotlinx.coroutines.Dispatchers
 
 class ViewModel: ViewModel(){

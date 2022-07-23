@@ -15,8 +15,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.example.coingeckolist.response.ApiStatus
-import com.example.coingeckolist.response.ListResponseItem
+import com.example.coingeckolist.model.response.ApiStatus
+import com.example.coingeckolist.model.ListResponseItem
 import com.example.coingeckolist.ui.theme.CoinGeckoListTheme
 import com.example.coingeckolist.ui.theme.Purple700
 import com.example.coingeckolist.view.HomeLayout

@@ -1,4 +1,4 @@
-package com.example.coingeckolist.response
+package com.example.coingeckolist.model.response
 
 enum class ApiStatus {
     SUCCESSFULL,

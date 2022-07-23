@@ -1,3 +1,3 @@
-package com.example.coingeckolist.response
+package com.example.coingeckolist.model
 
 class ListResponse : ArrayList<ListResponseItem>()

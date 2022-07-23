@@ -10,7 +10,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.coingeckolist.response.ListResponseItem
+import com.example.coingeckolist.model.ListResponseItem
 
 @Composable
 fun HomeList(coinList: MutableList<ListResponseItem>) {
