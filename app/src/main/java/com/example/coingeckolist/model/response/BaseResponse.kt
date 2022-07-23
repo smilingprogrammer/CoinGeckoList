@@ -13,10 +13,6 @@ data class BaseResponse<out T>(
             BaseResponse(status = ApiStatus.SUCCESSFULL, data = data, msg  = null)
 
         fun <T> error(data: T?, msg: String): BaseResponse<T> =
-            BaseResponse(
-                status = ApiStatus.ERROR,
-                data = data,
-                msg = msg
-            )
+            BaseResponse(status = ApiStatus.ERROR, data = data, msg = msg)
     }
 }
