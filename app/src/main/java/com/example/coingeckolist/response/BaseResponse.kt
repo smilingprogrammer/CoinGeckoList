@@ -1,4 +1,4 @@
-package com.example.coingeckolist
+package com.example.coingeckolist.response
 
 data class BaseResponse<out T>(
     val status: ApiStatus,

@@ -1,5 +1,6 @@
-package com.example.coingeckolist
+package com.example.coingeckolist.network
 
+import com.example.coingeckolist.response.ListResponseItem
 import retrofit2.http.GET
 
 interface CoinGeckoApi {

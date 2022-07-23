@@ -1,4 +1,4 @@
-package com.example.coingeckolist
+package com.example.coingeckolist.response
 
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable

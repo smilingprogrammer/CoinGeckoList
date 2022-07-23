@@ -1,4 +1,4 @@
-package com.example.coingeckolist
+package com.example.coingeckolist.network
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

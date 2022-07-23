@@ -1,4 +1,6 @@
-package com.example.coingeckolist
+package com.example.coingeckolist.repository
+
+import com.example.coingeckolist.network.ApiClient
 
 
 class Repository {
